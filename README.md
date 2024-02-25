@@ -2,6 +2,8 @@
 
 ## Dev setup
 
+### Clone project
+
 ```sh
 git clone https://github.com/windwalk-bushido/winterf4ce
 cd winterf4ce/
@@ -13,10 +15,17 @@ cd winterf4ce/
 air server --port 55555 -c .air.toml
 ```
 
-## Prod
+## Prod setup
+
+### Build
 
 ```sh
 docker build -t winterf4ce .
+```
+
+### Run it
+
+```sh
 docker run -p 55555:55555 winterf4ce
 ```
 
