@@ -1,0 +1,86 @@
+Python Cheat Sheet
+https://www.pythoncheatsheet.org/
+
+Curated List of Python's stuff
+https://github.com/vinta/awesome-python
+
+Pip
+https://pypi.org/project/pip/
+
+Flask
+https://flask.palletsprojects.com/en/2.0.x/
+
+Jinja2
+https://jinja.palletsprojects.com/en/3.0.x/
+
+Django
+https://www.djangoproject.com/start/
+
+Go
+https://go.dev/doc/
+
+Fiber
+https://docs.gofiber.io/
+
+MongoDB
+https://www.mongodb.com/
+
+Postgres
+https://www.postgresql.org/docs/
+
+Supabase
+https://supabase.com/
+
+Strapi
+https://docs.strapi.io/developer-docs/latest/getting-started/quick-start.html#_1-install-strapi-and-create-a-new-project
+
+Forestry
+https://forestry.io/
+
+Wordpress
+https://wordpress.com/
+
+Nginx
+https://nginx.org/en/
+
+Apache
+https://apache.org/
+
+Microsoft Azure
+https://azure.microsoft.com/en-us/
+
+Google Cloud Platform
+https://console.cloud.google.com/
+
+Amazon Web Services
+https://aws.amazon.com/
+
+Docker's Hub
+https://hub.docker.com/
+
+Free APIs List
+https://free-apis.github.io/#/browse
+
+OWASP
+https://owasp.org/
+
+Reverse Shell Cheat Sheet
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#nodejs
+
+TryHackMe
+https://tryhackme.com/p/windwalk
+
+Exploit DB
+https://www.exploit-db.com/
+
+Crack Station
+https://crackstation.net/
+
+HashCat
+https://hashcat.net/wiki/doku.php?id=example_hashes
+
+Hash Identifier
+https://hashes.com/en/tools/hash_identifier
+
+SecList Toolbox
+https://github.com/danielmiessler/SecLists

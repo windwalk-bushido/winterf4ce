@@ -1,0 +1,56 @@
+DuckDuckGo
+https://duckduckgo.com/
+
+Google
+https://www.google.com/
+
+Searx
+https://searx.tiekoetter.com/
+
+Ecosia
+https://www.ecosia.org/
+
+Swisscows
+https://swisscows.com/?culture=en
+
+The Pirate Bay
+https://thepiratebay.org/index.html
+
+Wikipedia
+https://en.wikipedia.org/wiki/Main_Page
+
+Library Genesis
+https://libgen.rs/
+
+Based Cooking
+https://based.cooking/
+
+Svetosavlje
+https://svetosavlje.org/
+
+Google Drive
+https://drive.google.com/drive/my-drive
+
+Mega Drive
+https://mega.nz/fm/transfers
+
+Filter Music
+https://filtermusic.net/
+
+Deezer
+https://www.deezer.com/us/
+
+Sort Strings
+https://onlinestringtools.com/sort-strings
+
+Compare Strings
+https://text-compare.com/
+
+Compress PDF
+https://smallpdf.com/compress-pdf
+
+AppSmith
+https://www.appsmith.com/
+
+MilkyTracker
+https://milkytracker.org/docs/MilkyTracker.html

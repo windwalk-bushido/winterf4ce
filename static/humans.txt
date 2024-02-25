@@ -1,0 +1,17 @@
+# humanstxt.org/
+
+
+# LANGUAGES AND FRAMEWORKS
+  HTML5, TailwindCSS, Go.
+
+# DEPLOYMENT
+  Render
+
+# TOOLS AND SOFTWARES
+  VS Code, Firefox, Chromium, Linux, Alacritty.
+
+# WEBSITES FOR ASSETS
+  Flaticon, Google Fonts, TailwindCSS.
+
+# ABOUT ME
+  https://milijan-mosic.vercel.app/
